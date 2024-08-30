@@ -20,3 +20,8 @@ public final class papa/WindowOverlay {
 	public final fun show ()V
 }
 
+public final class papa/internal/GcTriggerReceiverKt {
+	public static final field GC_TRIGGER_MESSENGER Ljava/lang/String;
+	public static final field WHAT_GC_TRIGGERED I
+}
+
